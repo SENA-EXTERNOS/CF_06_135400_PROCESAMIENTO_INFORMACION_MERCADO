@@ -97,7 +97,7 @@
           img(src='@/assets/curso/temas/tema1/img10.png', alt='Texto que describa la imagen').img10-tema1
 
     .row.justify-content-center.mt-5
-      .col-lg-10
+      .col-lg-11
         .row.justify-content-center
           .col-lg-2.mb-3
             figure
