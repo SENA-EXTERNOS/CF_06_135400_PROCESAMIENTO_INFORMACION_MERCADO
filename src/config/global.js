@@ -241,54 +241,56 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Libro',
-      link:
-        'Alfredo Baronio, S. C. (2018). <i>Saber y Saber Hacer con Estadística.<i> UniRío.',
+      referencia:
+        'Libro Alfredo Baronio, S. C. (2018). <i>Saber y Saber Hacer con Estadística.<i> UniRío.',
+      link: '',
     },
     {
-      referencia: 'Libro',
-      link:
-        'Bogdán, T. y. (1987). <i>Introducción a los métodos cualitativos de investigación.<i> Paidós.',
+      referencia:
+        'Libro Bogdán, T. y. (1987). <i>Introducción a los métodos cualitativos de investigación.<i> Paidós.',
+      link: '',
     },
     {
-      referencia: 'Artículo',
-      link:
-        'Escuela de Administración de Negocios. (2008). <i>Metodologías de la Investigación en las Ciencias Sociales. En C. L. Ibáñez, Fases, fuentes y selección de técnicas<i> (pág. 9). Revista EAN.',
+      referencia:
+        'Artículo Escuela de Administración de Negocios. (2008). <i>Metodologías de la Investigación en las Ciencias Sociales. En C. L. Ibáñez, Fases, fuentes y selección de técnicas<i> (pág. 9). Revista EAN.',
+      link: '',
     },
     {
-      referencia: 'Norma',
-      link:
-        'ISO 27001. (2013). <i>Sistema de Gestión de Seguridad en la Información.<i>',
+      referencia:
+        'Norma ISO 27001. (2013). <i>Sistema de Gestión de Seguridad en la Información.<i>',
+      link: '',
     },
     {
-      referencia: 'Libro',
-      link:
-        'Krippendorff. (1980). <i>Metodología de análisis de contenido, teoría y práctica.<i> Paidós',
+      referencia:
+        'LibroKrippendorff. (1980). <i>Metodología de análisis de contenido, teoría y práctica.<i> Paidós',
+      link: '',
     },
     {
-      referencia: 'Boletín',
+      referencia:
+        'Boletín Margarita Aida Cruz García. (2019). <i>Boletín Científico de las Ciencias Económico Administrativas del ICEA.<I> Obtenido de',
       link:
-        'Margarita Aida Cruz García. (2019). <i>Boletín Científico de las Ciencias Económico Administrativas del ICEA.<I> Obtenido de https://repository.uaeh.edu.mx/revistas/index.php/icea/article/view/4864/6748 ',
+        ' https://repository.uaeh.edu.mx/revistas/index.php/icea/article/view/4864/6748 ',
     },
     {
-      referencia: 'Boletín',
-      link:
-        'Mariela Torres, K. P. (s.f.). <i>Métodos de recolección de datos para una investigación. Boletín electrónico No. 03.<i> Facultad de Ingeniería, Universidad Rafael Landívar.',
+      referencia:
+        'Boletín Mariela Torres, K. P. (s.f.). <i>Métodos de recolección de datos para una investigación. Boletín electrónico No. 03.<i> Facultad de Ingeniería, Universidad Rafael Landívar.',
+      link: '',
     },
     {
-      referencia: 'Libro',
-      link:
-        'Roberto Hernández Sampieri, C. F. (2004). <i>Metodología de la Investigación.<i> Mc Graw Hill.',
+      referencia:
+        'Libro Roberto Hernández Sampieri, C. F. (2004). <i>Metodología de la Investigación.<i> Mc Graw Hill.',
+      link: '',
     },
     {
-      referencia: 'Libro',
-      link:
-        'Rodríguez, I. V. (2008). <i>Metodología para la elaboración de guías de fuentes de información.<i>  Universidad Complutense de Madrid.',
+      referencia:
+        'Libro Rodríguez, I. V. (2008). <i>Metodología para la elaboración de guías de fuentes de información.<i>  Universidad Complutense de Madrid.',
+      link: '',
     },
     {
-      referencia: 'Artículo',
+      referencia:
+        'Artículo Universidad Autónoma del estado de Hidalgo. (2008). <i>Fuentes de información.<i> Obtenido de Sistema de Universidad Virtual:',
       link:
-        'Universidad Autónoma del estado de Hidalgo. (2008). <i>Fuentes de información.<i> Obtenido de Sistema de Universidad Virtual: https://repository.uaeh.edu.mx/bitstream/bitstream/handle/123456789/16700/LECT132.pdf ',
+        'https://repository.uaeh.edu.mx/bitstream/bitstream/handle/123456789/16700/LECT132.pdf ',
     },
   ],
   creditos: {
