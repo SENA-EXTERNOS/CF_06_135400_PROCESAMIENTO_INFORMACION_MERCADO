@@ -21,7 +21,7 @@
         .row.justify-content-center
           .col-lg-8
             p Ejemplo: si en el estudio se incluyó la opción de indicar el sexo al que pertenece, es necesario asignar un número a las mujeres y otro a los hombres, como se visualiza a continuación:
-            p.margin-texto 1. Mujeres
+            p.margin-texto 1. Mujeres.
             p.margin-texto 2. Hombres.
             p Si se trata de datos cuantitativos, se debe establecer el número de decimales que serán registrados.
           .col-lg-3
@@ -36,9 +36,9 @@
       h2 1.1  Identificación
 
 
-    .row.justify-content-center
+    .row
       p En la identificación de los datos es importante definir variables de fácil interpretación en la que se haga referencia a los temas que se estén abordando. Según Bogdán, (1987):
-      .col-lg-10
+      .col-lg-11
         .row.justify-content-center
           .col-lg-2.mb-4
             figure
@@ -99,20 +99,20 @@
     .row.justify-content-center.mt-5
       .col-lg-11
         .row.justify-content-center
-          .col-lg-2.mb-3
+          .col-lg-2.mb-3.mt-2
             figure
               img(src='@/assets/curso/temas/tema1/img11.png', alt='Texto que describa la imagen').img11-tema1
           .col-lg-10
             h5 ¿Por qué se deben codificar los datos? 
-            p.mt-4 Porque establece una guía para identificar los valores que podrán asignarse a cada variable, el fin de la codificación es abreviar los grandes volúmenes de datos obtenidos, tanto cuantitativos como cualitativos, así como agrupar los datos.
+            p.mt34 Porque establece una guía para identificar los valores que podrán asignarse a cada variable, el fin de la codificación es abreviar los grandes volúmenes de datos obtenidos, tanto cuantitativos como cualitativos, así como agrupar los datos.
 
         .row.justify-content-center.mt-3
           .col-lg-2.mb-3
             figure
               img(src='@/assets/curso/temas/tema1/img12.png', alt='Texto que describa la imagen').img11-tema1
           .col-lg-10
-            h5 ¿Por qué se deben codificar los datos? 
-            p.mt-4 Porque establece una guía para identificar los valores que podrán asignarse a cada variable, el fin de la codificación es abreviar los grandes volúmenes de datos obtenidos, tanto cuantitativos como cualitativos, así como agrupar los datos.
+            h5 ¿Y cómo se podría codificar datos cualitativos? 
+            p.mt-3 Primero es necesario establecer qué se incluirá en el libro de códigos.
 
     .row.justify-content-center.mt-5
       .col-lg-10

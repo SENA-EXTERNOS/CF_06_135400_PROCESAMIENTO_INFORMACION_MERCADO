@@ -54,7 +54,7 @@
 
     .row.justify-content-center.mt-5
       .col-lg-10
-        .tarjeta--morada.pt-5.px-5.pb-2
+        .tarjeta--morada.pt-4.px-5.pb-2
           .row.justify-content-center
             .col-lg-3
               figure
@@ -93,8 +93,8 @@
           img(src='@/assets/curso/temas/tema2/img9.png', alt='Texto que describa la imagen')
 
     .row.justify-content-center.my-5
-      .col-8.col-lg-3
-        p.margin-texto.mt-2.mt-3 Esta tabla permite concluir la cantidad de alumnos que existen en la escuela XYZ clasificados por sexo
+      .col-8.col-lg-4
+        p.margin-texto Esta tabla permite concluir la cantidad de alumnos que existen en la escuela XYZ clasificados por sexo
       .col-4.col-lg-1
         figure
           img(src='@/assets/curso/temas/tema2/img10.png', alt='Texto que describa la imagen')
@@ -110,13 +110,13 @@
       p Se presentan ocho pasos que podrán ser empleados para analizar los datos obtenidos en una encuesta de satisfacción, la cual es muy frecuente en los estudios de mercadeo: 
 
     LineaTiempoD.color-acento-contenido
-      .row(numero="1" titulo="Primer paso")
+      .row(numero="1" titulo="Primer paso").p-3
         p Se debe definir #[strong el Plan del estudio], que incluye definir los objetivos que se esperan obtener. Para ello es importante establecer a que segmento se dirige el estudio, y que tipo de preguntas aportaran valor al tema que se quiere abordar.
       
-      .row(numero="2" titulo="Segundo paso")
+      .row(numero="2" titulo="Segundo paso").p-3
         p Consiste en establecer claramente que se espera obtener del estudio, si el objetivo es qué tan satisfechos están los clientes con los productos, servicios o experiencia de marca, precio, acceso del producto, etc. Esta información servirá de parámetro para todos los análisis que siguen.
 
-      .row(numero="3" titulo="Tercer paso")
+      .row(numero="3" titulo="Tercer paso").p-3
         p El tercer paso consiste en tabular los datos obtenidos, en la cual se deberán poner las respuestas obtenidas en el estudio de satisfacción en una tabla de Excel, cambiando las palabras en números para facilitar el análisis.
         b Ejemplo:
         ul.lista-ul.ps-4.mt-3
@@ -150,19 +150,19 @@
             figure
               img(src='@/assets/curso/temas/tema2/img14.png', alt='Texto que describa la imagen')
             
-      .row(numero="4" titulo="Cuarto paso")
+      .row(numero="4" titulo="Cuarto paso").p-3
         p El siguiente paso consiste en agrupar los encuestados en segmentos que sean relevantes para el estudio. Esto permitirá conocer el comportamiento y aceptación del consumidor con base en algunos criterios como: como género, edad, ingresos, ocupación, entre otros.
       
-      .row(numero="5" titulo="Quinto paso")
+      .row(numero="5" titulo="Quinto paso").p-3
         p Se trata de comparar las respuestas entre segmentos, ejemplo: si se espera tener información de aceptación sobre una marca de ropa nueva, se podría comparar la información obtenida entre mujeres de un rango de edad joven con las opiniones de un rango de edad superior, de esta manera se conocerá en profundidad sobre las preferencias de los clientes.
 
-      .row(numero="6" titulo="Paso seis")
+      .row(numero="6" titulo="Paso seis").p-3
         p Consiste en observar las tendencias, en la cual se analizará los datos obtenidos y se contrastará con los objetivos establecidos en el plan.
 
-      .row(numero="7" titulo="Paso siete")
+      .row(numero="7" titulo="Paso siete").p-3
         p En el paso siete se logra observar las tendencias, para conocer en detalle el comportamiento de los mercados.
 
-      .row(numero="8" titulo="Paso ocho")
+      .row(numero="8" titulo="Paso ocho").p-3
         p El último paso consiste en registrar los hallazgos obtenidos en el estudio y de allí, identificar las debilidades que tiene la empresa con el fin de ser mitigadas y reemplazadas por fortalezas.
 
 

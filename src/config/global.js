@@ -157,7 +157,7 @@ export default {
       referencia:
         '<i>Taylor, S. B. (1992). Introducción a los métodos cualitativos de investigación.<i> Paidós.',
       tipo: 'Sección de libro',
-      descarga:
+      link:
         'https://asodea.files.wordpress.com/2009/09/taylor-s-j-bogdan-r-metodologia-cualitativa.pdf',
     },
     {
@@ -165,7 +165,7 @@ export default {
       referencia:
         'Fernández, Josefa. Tema 1. <i>Tabulación y representación gráfica de datos. Obtenido de<i>',
       tipo: 'Documento virtual',
-      descarga:
+      link:
         'https://www.um.es/documents/4874468/11785083/tema-1.pdf/667f24e3-d68e-4b08-bff4-3c47d69745f5',
     },
   ],
