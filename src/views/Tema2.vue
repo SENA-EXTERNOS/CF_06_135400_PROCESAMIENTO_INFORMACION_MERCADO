@@ -200,23 +200,23 @@
               img(src='@/assets/curso/temas/tema2/img13.png', alt='Texto que describa la imagen')
 
 
-          .tarjeta.color-acento-botones.p-3(x="29%" y="24%" numero="")
+          .tarjeta.color-acento-botones.p-3(x="32%" y="34%" numero="")
             h3 SAS
-            p SAS es un software de análisis estadístico y ofrece opciones para análisis más avanzados. Generalmente se obtiene como una solución Premium para ser empleado en investigación de mercadeo, negocios y atención médica. También permite realizar gráficos y cuadros dignos de publicar.
+            p SAS es un #[i software] de análisis estadístico y ofrece opciones para análisis más avanzados. Generalmente se obtiene como una solución Premium para ser empleado en investigación de mercadeo, negocios y atención médica. También permite realizar gráficos y cuadros dignos de publicar.
 
-          .tarjeta.color-acento-botones.p-3(x="48%" y="13%" numero="")
+          .tarjeta.color-acento-botones.p-3(x="50%" y="24%" numero="")
             h3 SPSS (IBM)
-            p Es un paquete de software de estadísticas muy utilizado en la investigación. El SPSS permite analizar la capacidad de compilar estadísticas descriptivas, análisis paramétricos y no paramétricos, además de graficar los resultados.
+            p Es un paquete de #[i software] de estadísticas muy utilizado en la investigación. El SPSS permite analizar la capacidad de compilar estadísticas descriptivas, análisis paramétricos y no paramétricos, además de graficar los resultados.
 
-          .tarjeta.color-acento-botones.p-3(x="67%" y="34%" numero="")
+          .tarjeta.color-acento-botones.p-3(x="68%" y="43%" numero="")
             h3 R
-            p R es un software estadístico gratis y se utiliza tanto en la investigación como en otros campos. Contiene herramientas que están disponibles para una gran variedad de aplicaciones y simplifican varios aspectos del procesamiento de datos.
+            p R es un #[i software] estadístico gratis y se utiliza tanto en la investigación como en otros campos. Contiene herramientas que están disponibles para una gran variedad de aplicaciones y simplifican varios aspectos del procesamiento de datos.
      
-          .tarjeta.color-acento-botones.p-3(x="6%" y="62%" numero="")
+          .tarjeta.color-acento-botones.p-3(x="9.5%" y="66.5%" numero="")
             h3 MATLAB
             p MatLab es una plataforma avanzada y analítica de programación muy empleado por ingenieros y científicos. 
 
-          .tarjeta.color-acento-botones.p-3(x="42%" y="80%" numero="")
+          .tarjeta.color-acento-botones.p-3(x="44%" y="83%" numero="")
             h3 EXCEL
             p Excel ofrece una gran variedad de aplicaciones y herramientas para el procesamiento de datos y estadísticas simples. Es fácil de usar, además genera métricas, gráficos y figuras, lo que lo convierte en una herramienta útil en el desarrollo de conceptos básicos en el análisis de datos.
  

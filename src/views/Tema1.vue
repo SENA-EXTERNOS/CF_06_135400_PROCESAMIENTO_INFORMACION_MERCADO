@@ -145,8 +145,8 @@
 
     .row.justify-content-center.mt-5
       .col-lg-10
-        p En el diseño de la encuesta es necesario incluir los siguientes códigos: código del entrevistador, fecha - hora y código del proyecto, demás información específica de la investigación. Es recomendable que el número de registros para cada encuestado sea el mismo y que aparezcan los mismos datos para todos los encuestados en las columnas asignadas. Recomendable usar códigos estándar para aquellos valores faltantes. Ejemplo, puede utilizarse el código 8 para una variable de una sola columna, 88 para una variable de dos columnas y así sucesivamente.
-        p El investigador establece un código a cada respuesta obtenida de cada pregunta, define en que columna debe aparecer los códigos de la respuesta.
+        p #[strong En el diseño de la encuesta es necesario incluir los siguientes códigos: código del entrevistador, fecha - hora y código del proyecto, demás información específica de la investigación. Es recomendable que el número de registros para cada encuestado sea el mismo y que aparezcan los mismos datos para todos los encuestados en las columnas asignadas. Recomendable usar códigos estándar para aquellos valores faltantes. Ejemplo, puede utilizarse el código 8 para una variable de una sola columna, 88 para una variable de dos columnas y así sucesivamente.]
+        p #[strong El investigador establece un código a cada respuesta obtenida de cada pregunta, define en que columna debe aparecer los códigos de la respuesta.]
       .col-7.col-lg-2
         figure
           img(src='@/assets/curso/temas/tema1/img14.png', alt='Texto que describa la imagen').img10-tema1
@@ -234,7 +234,7 @@
               | Inflación
 
             .tarjeta.tarjeta--azul.p-4(titulo="2. De dirección")
-              p En esta categoría se define como se está tratando un tema (¿favorable o desfavorable?, ¿Positiva o negativamente?, etcétera).
+              p En esta categoría se define como se está tratando un tema (¿favorable o desfavorable?, ¿Positiva o negativamente?, entre otros.).
               b Ejemplo:
               p Comparar la manera en que dos empresas abordan los cambios generados en el diseño de un producto.
               p #[strong Categoría:] posición frente a los cambios de un producto.
@@ -247,7 +247,7 @@
               | Neutral
 
             .tarjeta.tarjeta--azul.p-4(titulo="3. De valores")
-              p Indica los valores, intereses, deseos, creencias, etc.
+              p Indica los valores, intereses, deseos, creencias, entre otros.
               b Ejemplo:
               p  Preferencias en la alimentación matutina
               p #[strong Categoría:] Gustos y preferencias

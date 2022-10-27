@@ -97,7 +97,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: ' Estrategias',
+            titulo: ' Herramientas',
             hash: 't_2_3',
           },
         ],

@@ -7,7 +7,7 @@
       h2 Procesamiento de Información de Mercado
       span Síntesis: Tabulación de datos obtenidos en la investigación
 
-    p.my-5 Estimado aprendiz lo invito a que revise el siguiente mapa conceptual que representa una síntesis sobre la tabulación de datos y la importancia de la codificación y el análisis de datos obtenidos en una investigación, además de identificar los tipos de datos obtenidos como continuos y discretos. 
+    p.my-5 #[strong Estimado aprendiz lo invito a que revise el siguiente mapa conceptual que representa una síntesis sobre la tabulación de datos y la importancia de la codificación y el análisis de datos obtenidos en una investigación, además de identificar los tipos de datos obtenidos como continuos y discretos.] 
 
     .row.justify-content-center
       .col-lg-10.mb-5
