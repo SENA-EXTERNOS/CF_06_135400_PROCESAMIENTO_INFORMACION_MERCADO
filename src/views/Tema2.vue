@@ -27,7 +27,7 @@
     separador
 
     #t_2_1.titulo-segundo.color-acento-contenido
-      h2 2.1 Métodos
+      h2 2.1 Métodos para el análisis de datos
 
     .row
       p En el análisis de información se desarrollan métodos que dependen de los tipos de datos. 
@@ -64,7 +64,7 @@
               p La tabulación de los datos continuos y discretos, con valores distintos de la variable, se puede realizar a partir de grupos de valores de la variable en intervalos con la misma amplitud entre cada intervalo, teniendo como criterio el límite inferior que está dentro del intervalo y el límite superior fuera del intervalo. La amplitud se establece dependiendo de cada ejercicio. No se recomienda tener un número exagerado de intervalos.
 
     .row.mb-5
-      b Tabulación de los datos continuos y discretos 
+      p Tabulación de los datos continuos y discretos 
     
     .row.justify-content-center.mb-5
       .col-lg-10

@@ -153,7 +153,7 @@
 
 
 
-    Nombres
+    h3 Nombres
 
 
     .row.justify-content-center.my-5
@@ -193,7 +193,7 @@
       .tarjeta--morada.pt-5.px-5.py-4.position-relative
         .row.justify-content-center
           .col-lg-8
-            p De acuerdo con la información anterior, existen algunas formas de desarrollar un libro de códigos. Es posible generarlo manualmente, sistematizando y organizando la información en un documento. Sin embargo, esto puede convertirse en un proceso tedioso cuando se emplean grandes volúmenes de datos. Debido a esta situación, es posible automatizar la creación de un documento aplicando un software estadístico, tales como SPSS. 
+            p De acuerdo con la información anterior, existen algunas formas de desarrollar un libro de códigos. Es posible generarlo manualmente, sistematizando y organizando la información en un documento, sin embargo, esto puede convertirse en un proceso tedioso cuando se emplean grandes volúmenes de datos. Debido a esta situación, es posible automatizar la creación de un documento aplicando un software estadístico, tales como SPSS. 
 
           .col-lg-3
             figure

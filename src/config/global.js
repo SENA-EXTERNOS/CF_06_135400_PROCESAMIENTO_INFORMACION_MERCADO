@@ -145,7 +145,7 @@ export default {
     {
       tema: 'Análisis de información',
       referencia:
-        'Torres, M. (s.f.).Métodos de recolección de datos para una investigación. Boletín electrónico No. 03. Facultad de Ingeniería, Universidad Rafael Landívar.',
+        'Torres, M. (s.f.). Métodos de recolección de datos para una investigación. Boletín electrónico No. 03. Facultad de Ingeniería, Universidad Rafael Landívar.',
       tipo: 'Boletín',
       link:
         'http://148.202.167.116:8080/jspui/bitstream/123456789/2817/1/M%c3%a9todos%20de%20recolecci%c3%b3n%20de%20datos%20para%20una%20investigaci%c3%b3n.pdf',
@@ -170,7 +170,7 @@ export default {
     {
       termino: 'Confiabilidad',
       significado:
-        ' indica la estabilidad, consistencia y exactitud de los resultados',
+        ' indica la estabilidad, consistencia y exactitud de los resultados.',
     },
     {
       termino: 'Cuadro o tabla',
@@ -215,48 +215,48 @@ export default {
   referencias: [
     {
       referencia:
-        'Baronio, A. (2018). <em>Saber y Saber Hacer con Estadística.</em> UniRío.',
+        'Baronio, A. (2018). Saber y Saber Hacer con Estadística. UniRío.',
       link: '',
     },
     {
       referencia:
-        'Bogdán, R. y Taylor, S. (1987). <em>Introducción a los métodos cualitativos de investigación.</em> Paidós.',
+        'Bogdán, R. y Taylor, S. (1987). Introducción a los métodos cualitativos de investigación. Paidós.',
       link: '',
     },
     {
       referencia:
-        'Cruz García, M. A. (2019). <em>Boletín Científico de las Ciencias Económico Administrativas del ICEA.</em> ',
+        'Cruz García, M. A. (2019). Boletín Científico de las Ciencias Económico Administrativas del ICEA. ',
       link:
         'https://repository.uaeh.edu.mx/revistas/index.php/icea/article/view/4864/6748',
     },
     {
       referencia:
-        'Escuela de Administración de Negocios. (2008).<em>Metodologías de la Investigación en las Ciencias Sociales.</em>  En C. L. Ibáñez, Fases, fuentes y selección de técnicas (pág. 9). Revista EAN.',
+        'Escuela de Administración de Negocios. (2008).Metodologías de la Investigación en las Ciencias Sociales.  En C. L. Ibáñez, Fases, fuentes y selección de técnicas (pág. 9). Revista EAN.',
       link: '',
     },
     {
       referencia:
-        'Hernández Sampieri, R. (2004). <em>Metodología de la Investigación.</em> Mc Graw Hill.',
+        'Hernández Sampieri, R. (2004). Metodología de la Investigación. Mc Graw Hill.',
       link: '',
     },
     {
       referencia:
-        'ISO 27001. (2013). <em>Sistema de Gestión de Seguridad en la Información.</em>',
+        'ISO 27001. (2013). Sistema de Gestión de Seguridad en la Información.',
       link: '',
     },
     {
       referencia:
-        'Krippendorff. (1980).<em>Metodología de análisis de contenido, teoría y práctica.</em> Paidós',
+        'Krippendorff. (1980).Metodología de análisis de contenido, teoría y práctica. Paidós',
       link: '',
     },
     {
       referencia:
-        'Rodríguez, I. V. (2008). <em>Metodología para la elaboración de guías de fuentes de información.</em>  Universidad Complutense de Madrid.',
+        'Rodríguez, I. V. (2008). Metodología para la elaboración de guías de fuentes de información.  Universidad Complutense de Madrid.',
       link: '',
     },
     {
       referencia:
-        'Universidad Autónoma del estado de Hidalgo. (2008). <em>Fuentes de información.</em> ',
+        'Universidad Autónoma del estado de Hidalgo. (2008). Fuentes de información. ',
       link:
         'https://repository.uaeh.edu.mx/bitstream/bitstream/handle/123456789/16700/LECT132.pdf ',
     },

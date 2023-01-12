@@ -4,8 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
 
-    p.my-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
-
+    p.my-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
