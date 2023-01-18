@@ -59,13 +59,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Métodos',
+            titulo: 'Métodos para el análisis de datos',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: ' Estrategias',
+            titulo: 'Estrategias y herramientas para el análisis de datos',
             hash: 't_2_2',
           },
           {
@@ -121,7 +121,7 @@ export default {
     {
       tema: 'Parámetros de codificación',
       referencia:
-        'Editorial Tutor Formación. (s.f.). Codificación y tabulación de datos e información de mercados. ',
+        'Editorial Tutor Formación. (s.f.). <em>Codificación y tabulación de datos e información de mercados.</em> ',
       tipo: 'Documento sitio web',
       link:
         'https://editorial.tutorformacion.es/es/index.php?controller=attachment&id_attachment=151',
@@ -129,7 +129,7 @@ export default {
     {
       tema: 'Análisis de información',
       referencia:
-        'Taylor, S. B. (1992). Introducción a los métodos cualitativos de investigación. Paidós.',
+        'Taylor, S. B. (1992). <em>Introducción a los métodos cualitativos de investigación. Paidós.</em>',
       tipo: 'Sección de libro',
       link:
         'https://asodea.files.wordpress.com/2009/09/taylor-s-j-bogdan-r-metodologia-cualitativa.pdf',
@@ -137,7 +137,7 @@ export default {
     {
       tema: 'Análisis de información',
       referencia:
-        'Fernández, J. (s.f.). Tema 1. Tabulación y representación gráfica de datos. ',
+        'Fernández, J. (s.f.). <em>Tema 1. Tabulación y representación gráfica de datos.</em> ',
       tipo: 'Documento virtual',
       link:
         'https://www.um.es/documents/4874468/11785083/tema-1.pdf/667f24e3-d68e-4b08-bff4-3c47d69745f5',
@@ -145,7 +145,7 @@ export default {
     {
       tema: 'Análisis de información',
       referencia:
-        'Torres, M. (s.f.). Métodos de recolección de datos para una investigación. Boletín electrónico No. 03. Facultad de Ingeniería, Universidad Rafael Landívar.',
+        'Torres, M. (s.f.). <em>Métodos de recolección de datos para una investigación.</em> Boletín electrónico No. 03. Facultad de Ingeniería, Universidad Rafael Landívar.',
       tipo: 'Boletín',
       link:
         'http://148.202.167.116:8080/jspui/bitstream/123456789/2817/1/M%c3%a9todos%20de%20recolecci%c3%b3n%20de%20datos%20para%20una%20investigaci%c3%b3n.pdf',
@@ -215,48 +215,48 @@ export default {
   referencias: [
     {
       referencia:
-        'Baronio, A. (2018). Saber y Saber Hacer con Estadística. UniRío.',
+        'Baronio, A. (2018). <em>Saber y Saber Hacer con Estadística.</em> UniRío.',
       link: '',
     },
     {
       referencia:
-        'Bogdán, R. y Taylor, S. (1987). Introducción a los métodos cualitativos de investigación. Paidós.',
+        'Bogdán, R. y Taylor, S. (1987). <em>Introducción a los métodos cualitativos de investigación.</em> Paidós.',
       link: '',
     },
     {
       referencia:
-        'Cruz García, M. A. (2019). Boletín Científico de las Ciencias Económico Administrativas del ICEA. ',
+        'Cruz García, M. A. (2019). <em>Boletín Científico de las Ciencias Económico Administrativas del ICEA.</em> ',
       link:
         'https://repository.uaeh.edu.mx/revistas/index.php/icea/article/view/4864/6748',
     },
     {
       referencia:
-        'Escuela de Administración de Negocios. (2008).Metodologías de la Investigación en las Ciencias Sociales.  En C. L. Ibáñez, Fases, fuentes y selección de técnicas (pág. 9). Revista EAN.',
+        'Escuela de Administración de Negocios. (2008). Metodologías de la Investigación en las Ciencias Sociales. En C. L. Ibáñez, <em>Fases, fuentes y selección de técnicas (pág. 9). Revista EAN.</em>',
       link: '',
     },
     {
       referencia:
-        'Hernández Sampieri, R. (2004). Metodología de la Investigación. Mc Graw Hill.',
+        'Hernández Sampieri, R. (2004). <em>Metodología de la Investigación.</em> Mc Graw Hill.',
       link: '',
     },
     {
       referencia:
-        'ISO 27001. (2013). Sistema de Gestión de Seguridad en la Información.',
+        'ISO 27001. (2013). <em>Sistema de Gestión de Seguridad en la Información.</em>',
       link: '',
     },
     {
       referencia:
-        'Krippendorff. (1980).Metodología de análisis de contenido, teoría y práctica. Paidós',
+        'Krippendorff. (1980). <em>Metodología de análisis de contenido, teoría y práctica.</em> Paidós',
       link: '',
     },
     {
       referencia:
-        'Rodríguez, I. V. (2008). Metodología para la elaboración de guías de fuentes de información.  Universidad Complutense de Madrid.',
+        'Rodríguez, I. V. (2008). <em>Metodología para la elaboración de guías de fuentes de información.</em>  Universidad Complutense de Madrid.',
       link: '',
     },
     {
       referencia:
-        'Universidad Autónoma del estado de Hidalgo. (2008). Fuentes de información. ',
+        'Universidad Autónoma del estado de Hidalgo. (2008). <em>Fuentes de información.</em> ',
       link:
         'https://repository.uaeh.edu.mx/bitstream/bitstream/handle/123456789/16700/LECT132.pdf ',
     },

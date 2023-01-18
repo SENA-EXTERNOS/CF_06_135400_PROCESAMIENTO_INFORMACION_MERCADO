@@ -2,11 +2,6 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-puzzle-piece" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
-        span 
-          i.fas.fa-puzzle-piece.texto-blanco
-      h1 Tabulación de datos obtenidos en la investigación
     
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
@@ -14,6 +9,8 @@
           figure
             img(src="@/assets/template/completar-espacios.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
+        titulo-segundo.color-acento-contenido(data-aos='fade-right')
+          h2 Tabulación de datos obtenidos en la investigación
         p.mb-4 Apreciado aprendiz, bienvenido a esta actividad didáctica donde usted completará las frases o ideas propuestas, digitando correctamente, en el campo dispuesto para ello, la palabra ausente. 
           br
           br

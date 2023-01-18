@@ -30,8 +30,10 @@
       h2 2.1 Métodos para el análisis de datos
 
     .row
-      p En el análisis de información se desarrollan métodos que dependen de los tipos de datos. 
-      p Existen dos tipos de datos estadísticos:
+      p En el análisis de información es posible aplicar métodos, que tiene relación directa con el tipo de datos que están siendo analizados. En tal sentido, se desarrollan dos métodos principales: método cuantitativo y método cualitativo. 
+        br
+        br
+        |Pero, ¡atención! existen dos tipos de datos estadísticos:
 
     .tarjeta--container.row.texto-blanco.my-5
       .col-md.tarjeta.tarjeta-color1.p-5(data-aos="flip-left")
@@ -64,7 +66,7 @@
               p La tabulación de los datos continuos y discretos, con valores distintos de la variable, se puede realizar a partir de grupos de valores de la variable en intervalos con la misma amplitud entre cada intervalo, teniendo como criterio el límite inferior que está dentro del intervalo y el límite superior fuera del intervalo. La amplitud se establece dependiendo de cada ejercicio. No se recomienda tener un número exagerado de intervalos.
 
     .row.mb-5
-      p Tabulación de los datos continuos y discretos 
+      p La siguiente ilustración ejemplifica la tabulación de datos continuos y discretos:
     
     .row.justify-content-center.mb-5
       .col-lg-10

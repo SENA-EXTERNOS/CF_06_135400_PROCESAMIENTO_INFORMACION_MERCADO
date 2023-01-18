@@ -15,7 +15,7 @@
           img(src="@/assets/curso/temas/introduccion/img1.png", alt="alt")
       
       .col-lg-9
-        p  Apreciado aprendiz, bienvenido a este componente formativo, donde usted podrá apropiar competencias de aprendizaje orientadas la tabulación de datos obtenidos en la investigación de mercado, clasificar la información, codificarla y aplicar herramientas que faciliten su interpretación.
+        p  Apreciado aprendiz, bienvenido a este componente formativo, donde usted podrá apropiar competencias de aprendizaje orientadas a la tabulación de datos obtenidos en la investigación de mercado, clasificar la información, codificarla y aplicar herramientas que faciliten su interpretación.
           br
           br
           |Adicionalmente, con el estudio responsable de estos contenidos, usted conocerá y manejará herramientas que permiten a los coordinadores, supervisores, técnicos, mandos medios e incluso miembros de juntas directivas de las empresas, acceder a la tabulación de datos obtenidos en una investigación de mercado, contribuyendo en el crecimiento organizacional de las empresas y la generación de valor agregado en sus productos y servicios. 
