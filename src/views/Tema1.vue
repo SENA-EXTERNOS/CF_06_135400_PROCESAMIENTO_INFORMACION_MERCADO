@@ -50,29 +50,29 @@
     .row
       SlyderF.mb-5.mb-5(columnas="col-lg-6 col-xl-4")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/img4.png' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema1/img4.png' alt='AvatarTop').mb-5
           .tarjeta.tarjeta--morada2.texto-blanco.p-4
-            p.text-center.mb-5 Iniciar redactando una lista de todos los conceptos, temas, tipologías e interpretaciones, proposiciones identificados o producidos durante el análisis inicial para poder establecer las categorías de la codificación.
+            p.text-center.mb-5.mt-3 Iniciar redactando una lista de todos los conceptos, temas, tipologías e interpretaciones, proposiciones identificados o producidos durante el análisis inicial para poder establecer las categorías de la codificación.
 
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img5.png' alt='AvatarTop')
           .tarjeta.tarjeta--morada2.texto-blanco.p-4
-            p.text-center.mb-5 Codificar todos los datos que incluyan las celdas, las transcripciones, materiales y documentos, estableciendo en el margen el número o la letra correspondiente a cada categoría.
+            p.text-center.mb-5.mt-3 Codificar todos los datos que incluyan las celdas, las transcripciones, materiales y documentos, estableciendo en el margen el número o la letra correspondiente a cada categoría.
 
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img6.png' alt='AvatarTop')
           .tarjeta.tarjeta--morada2.texto-blanco.p-4
-            p.text-center.mb-5 Separar los datos que corresponden a los tipos y categorías de codificación.
+            p.text-center.mb-5.mt-3 Separar los datos que corresponden a los tipos y categorías de codificación.
 
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img7.png' alt='AvatarTop')
           .tarjeta.tarjeta--morada2.texto-blanco.p-4
-            p.text-center.mb-5 Observar qué datos han sobrado. Es posible que algunos de estos se ajusten a las categorías de codificación existentes. Se pueden establecer nuevas categorías en esta fase.
+            p.text-center.mb-5.mt-3 Observar qué datos han sobrado. Es posible que algunos de estos se ajusten a las categorías de codificación existentes. Se pueden establecer nuevas categorías en esta fase.
 
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img8.png' alt='AvatarTop')
           .tarjeta.tarjeta--morada2.texto-blanco.p-4
-            p.text-center.mb-5 Refinar el análisis. La codificación y clasificación de los datos permite establecer diferencias relacionados con cada tema, concepto, proposición y, en consecuencia, ajustar los resultados.
+            p.text-center.mb-5.mt-3 Refinar el análisis. La codificación y clasificación de los datos permite establecer diferencias relacionados con cada tema, concepto, proposición y, en consecuencia, ajustar los resultados.
     p.mb-5(data-aos='fade-right') La codificación de datos cualitativos, requiere tener en cuenta el seguimiento o aplicación de ciertos pasos o acciones, como las que se muestran a continuación: 
 
     figure.mb-5
