@@ -52,7 +52,7 @@
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img4.png' alt='AvatarTop').mb-5
           .tarjeta.tarjeta--morada2.texto-blanco.p-4
-            p.text-center.mb-5.mt-3 Iniciar redactando una lista de todos los conceptos, temas, tipologías e interpretaciones, proposiciones identificados o producidos durante el análisis inicial para poder establecer las categorías de la codificación.
+            p.text-center.mb-5.mt-3 Iniciar redactando una lista de todos los conceptos, temas, tipologías e interpretaciones, proposiciones identificadas o producidas durante el análisis inicial para poder establecer las categorías de la codificación.
 
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img5.png' alt='AvatarTop')
@@ -72,7 +72,7 @@
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img8.png' alt='AvatarTop')
           .tarjeta.tarjeta--morada2.texto-blanco.p-4
-            p.text-center.mb-5.mt-3 Refinar el análisis. La codificación y clasificación de los datos permite establecer diferencias relacionados con cada tema, concepto, proposición y, en consecuencia, ajustar los resultados.
+            p.text-center.mb-5.mt-3 Refinar el análisis. La codificación y clasificación de los datos permite establecer diferencias relacionadas con cada tema, concepto, proposición y, en consecuencia, ajustar los resultados.
     p.mb-5(data-aos='fade-right') La codificación de datos cualitativos, requiere tener en cuenta el seguimiento o aplicación de ciertos pasos o acciones, como las que se muestran a continuación: 
 
     figure.mb-5
@@ -223,10 +223,10 @@
         figure
           img(src='@/assets/curso/temas/tema1/img19.png', alt='Texto que describa la imagen')        
 
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.my-5
         .col-lg-9
           TabsA.color-acento-contenido.mb-5        
-            .tarjeta.tarjeta--azul.p-4(titulo="1. De asunto o tópico")
+            .tarjeta.tarjeta--azul.p-4(titulo="1. De asunto o<br> tópico")
               p Hace referencia a establecer cuál es el asunto tópico o tema tratado.
               b Ejemplo: 
               p Analizar un informe financiero
