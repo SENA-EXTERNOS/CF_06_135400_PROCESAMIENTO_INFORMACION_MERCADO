@@ -257,8 +257,6 @@ export default {
     {
       referencia:
         'Universidad Autónoma del estado de Hidalgo. (2008). <em>Fuentes de información.</em> ',
-      link:
-        'https://repository.uaeh.edu.mx/bitstream/bitstream/handle/123456789/16700/LECT132.pdf ',
     },
   ],
   creditos: {

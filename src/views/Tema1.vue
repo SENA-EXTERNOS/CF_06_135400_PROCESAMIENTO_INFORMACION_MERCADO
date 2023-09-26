@@ -22,8 +22,13 @@
       .row.justify-content-center
         .col-lg-8
           p Ejemplo: si en el estudio se incluyó la opción de indicar el sexo al que pertenece, es necesario asignar un número a las mujeres y otro a los hombres, como se visualiza a continuación:
-          p.margin-texto 1. Mujeres.
-          p.margin-texto 2. Hombres.
+          ul.lista-ul--color.ps-3
+            li 
+              i.fas.fa-check
+              p.mb-0 Mujeres.
+            li 
+              i.fas.fa-check
+              p.mb-0 Hombres.
           p Si se trata de datos cuantitativos, se debe establecer el número de decimales que serán registrados.
         .col-lg-3
           figure
