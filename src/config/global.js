@@ -231,8 +231,14 @@ export default {
     },
     {
       referencia:
+        'Cruz García, M. M. (2019). <em>Boletín Científico de las Ciencias Económico Administrativas del ICEA.</em>',
+      link:
+        'https://repository.uaeh.edu.mx/revistas/index.php/icea/article/view/4864/6748',
+    },
+    {
+      referencia:
         'Escuela de Administración de Negocios. (2008). Metodologías de la Investigación en las Ciencias Sociales. En C. L. Ibáñez, <em>Fases, fuentes y selección de técnicas (pág. 9). Revista EAN.</em>',
-      link: '',
+      link: 'https://www.redalyc.org/pdf/206/20612981002.pdf',
     },
     {
       referencia:
@@ -242,7 +248,8 @@ export default {
     {
       referencia:
         'ISO 27001. (2013). <em>Sistema de Gestión de Seguridad en la Información.</em>',
-      link: '',
+      link:
+        'https://www.nqa.com/medialibraries/NQA/NQA-Media-Library/PDFs/Spanish%20QRFs%20and%20PDFs/NQA-ISO-27001-Guia-de-implantacion.pdf',
     },
     {
       referencia:
@@ -252,7 +259,7 @@ export default {
     {
       referencia:
         'Rodríguez, I. V. (2008). <em>Metodología para la elaboración de guías de fuentes de información.</em>  Universidad Complutense de Madrid.',
-      link: '',
+      link: 'https://www.scielo.org.mx/pdf/ib/v22n46/v22n46a6.pdf',
     },
     {
       referencia:
