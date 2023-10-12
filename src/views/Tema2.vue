@@ -188,19 +188,19 @@
           .col-lg-10
             p Se trata de comparar las respuestas entre segmentos, ejemplo: si se espera tener información de aceptación sobre una marca de ropa nueva, se podría comparar la información obtenida entre mujeres de un rango de edad joven con las opiniones de un rango de edad superior, de esta manera se conocerán, en profundidad, las preferencias de las clientes.
 
-      .row(numero="6" titulo="Paso seis").p-3
+      .row(numero="6" titulo="Sexto paso").p-3
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-1: img(src='@/assets/curso/temas/tema1/c1.svg', alt='')
           .col-lg-10
             p Consiste en observar las tendencias; se analizarán los datos obtenidos y se contrastarán con los objetivos establecidos en el plan.
 
-      .row(numero="7" titulo="Paso siete").p-3
+      .row(numero="7" titulo="Séptimo paso").p-3
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-1: img(src='@/assets/curso/temas/tema1/c1.svg', alt='')
           .col-lg-10
             p Observar las tendencias; esto favorece conocer, con mayor detalle, el comportamiento de los mercados.
 
-      .row(numero="8" titulo="Paso ocho").p-3
+      .row(numero="8" titulo="Octavo paso").p-3
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-1: img(src='@/assets/curso/temas/tema1/c1.svg', alt='')
           .col-lg-10

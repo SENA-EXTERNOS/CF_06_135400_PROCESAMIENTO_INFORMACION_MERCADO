@@ -258,6 +258,12 @@ export default {
     },
     {
       referencia:
+        'Maranto Rivera, M. y González Fernández, M. E. (2015). <em>Fuentes de información</em>. Universidad Autónoma del estado de Hidalgo.',
+      link:
+        'https://repository.uaeh.edu.mx/bitstream/bitstream/handle/123456789/16700/LECT132.pdf',
+    },
+    {
+      referencia:
         'Rodríguez, I. V. (2008). <em>Metodología para la elaboración de guías de fuentes de información.</em>  Universidad Complutense de Madrid.',
       link: 'https://www.scielo.org.mx/pdf/ib/v22n46/v22n46a6.pdf',
     },
